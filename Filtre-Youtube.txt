@@ -106,11 +106,6 @@ www.youtube.com###trending-guide-item
 ! Attempts to remove YouTube frontpage recommended videos and channels when using "Disable polymer" (and using YouTube in a Germanic language)
 www.youtube.com#?#.feed-item-container.browse-list-item-container:-abp-has(.shelf-title-annotation:-abp-contains( for ))
 
-! Removes the like/dislike counters
-www.youtube.com##.like-button-renderer-like-button > .yt-uix-button-content
-www.youtube.com##.like-button-renderer-dislike-button > .yt-uix-button-content
-www.youtube.com##.video-extras-sparkbars
-
 ! ————————————————————————————————————————————————————————————————
 
 ! ——— "TV" mode ———

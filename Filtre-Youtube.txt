@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Title: ▶️ YouTube: Even More Pure Video Experience
+! Title: ▶️ Filtre Youtube
 ! Version: 13January2021v1
 ! Expires: 6 days
 ! Description: This list removes even more distracting or uncomfortable things on YouTube.

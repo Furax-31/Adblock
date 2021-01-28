@@ -140,3 +140,13 @@ youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .
 youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip + .branded-page-related-channels-list
 ! "Subscribe to see more videos from this channel" on home page after watching some video of a channel
 youtube.com###channel-subscription-promo-in-feed
+
+youtube-nocookie.com,youtube.com##.annotation.iv-branding
+youtube-nocookie.com,youtube.com##.annotation.iv-promo
+youtube-nocookie.com,youtube.com##.iv-promo-video
+youtube-nocookie.com,youtube.com##.video-annotations
+youtube-nocookie.com,youtube.com##.ytp-cards-teaser
+~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-ce-element
+~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
+youtube-nocookie.com,youtube.com###yt-lang-alert-container

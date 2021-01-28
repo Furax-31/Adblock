@@ -1,6 +1,6 @@
 [Adblock Plus 3.4]
-! Title: Adblock Perso - Filtre Youtube
-! Version: 17January2021
+! Title: Adblock Perso - Filtre Youtube by Furax-31
+! Version: V17.01.21
 ! Expires: 6 days
 ! Description: This list removes even more distracting or uncomfortable things on YouTube.
 

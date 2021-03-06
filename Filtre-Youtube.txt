@@ -143,4 +143,5 @@ youtube.com###channel-subscription-promo-in-feed
 
 ! ————————————————————————————————————————————————————————————————
 
+! Remove center sponso
 teamos-hkrg.com##center > a > img

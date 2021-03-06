@@ -140,3 +140,7 @@ youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .
 youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip + .branded-page-related-channels-list
 ! "Subscribe to see more videos from this channel" on home page after watching some video of a channel
 youtube.com###channel-subscription-promo-in-feed
+
+! ————————————————————————————————————————————————————————————————
+
+teamos-hkrg.com##center > a > img

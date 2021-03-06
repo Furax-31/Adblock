@@ -1,0 +1,17 @@
+[Adblock Plus 3.4]
+! Title: Adblock Perso - Filtres Perso by Furax-31
+! Version: V18
+! Expires: 6 days
+! Description: This list removes even more distracting or uncomfortable things on web.
+
+! ————————————————————————————————————————————————————————————————
+
+! 2021-03-04 https://www.teamos-hkrg.com
+teamos-hkrg.com##center > a > img
+
+! 2021-03-06 https://ghostspectre.the-ninja.jp
+||icons.iconarchive.com/icons/limav/flat-gradient-social/128/Facebook-icon.png$image
+||icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/paypal-icon.png$image
+ghostspectre.the-ninja.jp##layer3 > p > b > font
+ghostspectre.the-ninja.jp##layer5 > p > b > font
+ghostspectre.the-ninja.jp##wpadminbar

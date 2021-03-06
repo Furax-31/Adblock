@@ -6,7 +6,7 @@
 
 ! ————————————————————————————————————————————————————————————————
 
-! 2021-03-04 https://www.teamos-hkrg.com
+! 2021-03-06 https://www.teamos-hkrg.com
 teamos-hkrg.com##center > a > img
 
 ! 2021-03-06 https://ghostspectre.the-ninja.jp
@@ -15,3 +15,14 @@ teamos-hkrg.com##center > a > img
 ghostspectre.the-ninja.jp##layer3 > p > b > font
 ghostspectre.the-ninja.jp##layer5 > p > b > font
 ghostspectre.the-ninja.jp##wpadminbar
+
+! 2021-03-06 https://www.youtube.com
+youtube-nocookie.com,youtube.com##.annotation.iv-branding
+youtube-nocookie.com,youtube.com##.annotation.iv-promo
+youtube-nocookie.com,youtube.com##.iv-promo-video
+youtube-nocookie.com,youtube.com##.video-annotations
+youtube-nocookie.com,youtube.com##.ytp-cards-teaser
+~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-ce-element
+~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
+youtube-nocookie.com,youtube.com###yt-lang-alert-container

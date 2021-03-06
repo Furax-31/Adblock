@@ -151,3 +151,4 @@ teamos-hkrg.com##center > a > img
 ||icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/paypal-icon.png$image
 ghostspectre.the-ninja.jp##layer3 > p > b > font
 ghostspectre.the-ninja.jp##layer5 > p > b > font
+ghostspectre.the-ninja.jp##wpadminbar

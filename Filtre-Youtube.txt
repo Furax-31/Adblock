@@ -149,5 +149,5 @@ teamos-hkrg.com##center > a > img
 ! 2021-03-06 https://ghostspectre.the-ninja.jp
 ||icons.iconarchive.com/icons/limav/flat-gradient-social/128/Facebook-icon.png$image
 ||icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/paypal-icon.png$image
-ghostspectre.the-ninja.jp###div > p > b > font
-ghostspectre.the-ninja.jp###div > p > b > font
+ghostspectre.the-ninja.jp##div > p > b > font
+ghostspectre.the-ninja.jp##div > p > b > font

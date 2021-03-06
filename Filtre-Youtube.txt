@@ -143,5 +143,11 @@ youtube.com###channel-subscription-promo-in-feed
 
 ! ————————————————————————————————————————————————————————————————
 
-! Remove center sponso
+! 2021-03-04 https://www.teamos-hkrg.com
 teamos-hkrg.com##center > a > img
+
+! 2021-03-04 https://ghostspectre.the-ninja.jp
+ghostspectre.the-ninja.jp###layer2
+ghostspectre.the-ninja.jp###layer4
+ghostspectre.the-ninja.jp###layer3 > p > b > font
+ghostspectre.the-ninja.jp###layer5 > p

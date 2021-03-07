@@ -12,9 +12,12 @@ teamos-hkrg.com##center > a > img
 ! 2021-03-06 https://ghostspectre.the-ninja.jp
 ||icons.iconarchive.com/icons/limav/flat-gradient-social/128/Facebook-icon.png$image
 ||icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/paypal-icon.png$image
-ghostspectre.the-ninja.jp###layer3 > p > b > font
-ghostspectre.the-ninja.jp###layer5 > p > b > font
-ghostspectre.the-ninja.jp###wpadminbar
+ghostspectre.the-ninja.jp#layer2 > a > .transparent
+ghostspectre.the-ninja.jp#layer4 > a > .transparent
+ghostspectre.the-ninja.jp#layer1 > a > .transparent
+ghostspectre.the-ninja.jp#layer3 > p > b > font
+ghostspectre.the-ninja.jp#layer5 > p > b > font
+ghostspectre.the-ninja.jp#wpadminbar
 
 ! 2021-03-06 https://www.youtube.com
 youtube-nocookie.com,youtube.com##.annotation.iv-branding

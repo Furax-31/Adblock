@@ -31,3 +31,6 @@ youtube-nocookie.com,youtube.com###yt-lang-alert-container
 
 ! 08-04-2021 https://01net.com
 www.01net.com##.mrf-adv__wrapper
+
+! 08-04-2021 https://www.twitch.tv
+www.twitch.tv##.consent-banner

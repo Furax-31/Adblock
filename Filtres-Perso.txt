@@ -28,4 +28,7 @@ www.twitch.tv##.consent-banner
 ! https://www.tirexo.ai
 tirexo.ai##+js(aopw, window.open)
 
+! https://lootlemon.com
+##div[style*="box-shadow: rgb(136, 136, 136)"]
+
 ||adfreevision.com^

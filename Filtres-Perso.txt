@@ -5,10 +5,19 @@
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-! https://teamos-hkrg.com
+
+||adfreevision.com^
+
+01net.com##.mrf-adv__wrapper
+
+lootlemon.com##div[style*="box-shadow: rgb(136, 136, 136)"]
+
 teamos-hkrg.com##center > a > img
 
-! https://youtube.com
+tirexo.ai##+js(aopw, window.open)
+
+twitch.tv##.consent-banner
+
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
 youtube-nocookie.com,youtube.com##.iv-promo-video
@@ -18,17 +27,3 @@ youtube-nocookie.com,youtube.com##.ytp-cards-teaser
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
 youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 youtube-nocookie.com,youtube.com###yt-lang-alert-container
-
-! https://01net.com
-www.01net.com##.mrf-adv__wrapper
-
-! https://www.twitch.tv
-www.twitch.tv##.consent-banner
-
-! https://www.tirexo.ai
-tirexo.ai##+js(aopw, window.open)
-
-! https://lootlemon.com
-##div[style*="box-shadow: rgb(136, 136, 136)"]
-
-||adfreevision.com^

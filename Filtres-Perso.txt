@@ -27,3 +27,5 @@ www.twitch.tv##.consent-banner
 
 ! https://www.tirexo.ai
 tirexo.ai##+js(aopw, window.open)
+
+||adfreevision.com^

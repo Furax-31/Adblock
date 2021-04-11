@@ -5,20 +5,10 @@
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-! 06-03-2021 https://www.teamos-hkrg.com
+! https://teamos-hkrg.com
 teamos-hkrg.com##center > a > img
 
-! 06-03-2021 https://ghostspectre.the-ninja.jp
-||icons.iconarchive.com/icons/limav/flat-gradient-social/128/Facebook-icon.png$image
-||icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/paypal-icon.png$image
-ghostspectre.the-ninja.jp#layer2 > a > .transparent
-ghostspectre.the-ninja.jp#layer4 > a > .transparent
-ghostspectre.the-ninja.jp#layer1 > a > .transparent
-ghostspectre.the-ninja.jp#layer3 > p > b > font
-ghostspectre.the-ninja.jp#layer5 > p > b > font
-ghostspectre.the-ninja.jp#wpadminbar
-
-! 06-03-2021 https://www.youtube.com
+! https://youtube.com
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
 youtube-nocookie.com,youtube.com##.iv-promo-video
@@ -29,8 +19,11 @@ youtube-nocookie.com,youtube.com##.ytp-cards-teaser
 youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 youtube-nocookie.com,youtube.com###yt-lang-alert-container
 
-! 08-04-2021 https://01net.com
+! https://01net.com
 www.01net.com##.mrf-adv__wrapper
 
-! 08-04-2021 https://www.twitch.tv
+! https://www.twitch.tv
 www.twitch.tv##.consent-banner
+
+! https://www.tirexo.ai
+tirexo.ai##+js(aopw, window.open)

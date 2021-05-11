@@ -10,6 +10,8 @@
 
 01net.com##.mrf-adv__wrapper
 
+jeuxvideo.com##.sideWootbox
+
 lootlemon.com##div[style*="box-shadow: rgb(136, 136, 136)"]
 
 teamos-hkrg.com##center > a > img

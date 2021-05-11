@@ -1,18 +1,11 @@
 [Adblock Plus 3.4]
-! Title: Adblock Perso - Filtres Perso pars Furax-31
-! Version: Avril 2021
+! Title: Adblock - Filtres Perso Furax-31
+! Version: May 2021
 ! Expires: 7 days
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-
-||adfreevision.com^
-
-01net.com##.mrf-adv__wrapper
-
 jeuxvideo.com##.sideWootbox
-
-lootlemon.com##div[style*="box-shadow: rgb(136, 136, 136)"]
 
 teamos-hkrg.com##center > a > img
 

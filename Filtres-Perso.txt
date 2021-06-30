@@ -5,13 +5,20 @@
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-jeuxvideo.com##.sideWootbox
+www.skyrock.com###discover_dedikas
 
-teamos-hkrg.com##center > a > img
+fr.uefa.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+
+www.twitch.tv##.sc-AxjAm.gLrbxY.consent-banner
+
+forum.xda-developers.com###sponsor_banner_link > [src*="https://www.xda-developers.com/files/2021/06/hw_prime_2021.jpg"]
+
+forum.xda-developers.com##.uix_sidebarInner > .uix_sidebar--scroller > div.block:nth-of-type(2) > .block-container > .block-body.block-row
+
+yggtorrent.li##.ad-alert-wrapper
+teamos-hkrg.com##[src*="https://lookimg.com/images/2021/05/12/PEzc0g.png"]
 
 tirexo.ai##+js(aopw, window.open)
-
-twitch.tv##.consent-banner
 
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
@@ -22,3 +29,18 @@ youtube-nocookie.com,youtube.com##.ytp-cards-teaser
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
 youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 youtube-nocookie.com,youtube.com###yt-lang-alert-container
+/annotations_module.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+
+www.porntrex.com##.index-link-href
+
+www.google.com##.articleHeader__shareLinks
+
+www.jeuxvideo.com##.articleHeader__shareLinks
+
+www.google.com##.articleHeader__shareLinks
+
+fr.xhamster.com##.wio-ccams-widget.vertical
+
+fr.xhamster.com##.wio-ccams-widget.underplayer
+
+fr.xhamster.com##.wio-cspb.wio-cspa

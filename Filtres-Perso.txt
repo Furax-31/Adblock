@@ -64,3 +64,9 @@ www.youtube.com##.apple_music_player_iframe
 www.filepicker.io##.apple_music_player_iframe
 
 tirexo.ai##+js(aopw, window.open)
+
+fmovies.to##+js(acis, JSON.parse)
+fmovies.to##+js(acis, atob)
+fmovies.to##+js(acis, XMLHttpRequest)
+
+diariodocentrodomundo.com.br,01net.com,gizchina.com,pocketpc.ch##.mrf-adv__wrapper 

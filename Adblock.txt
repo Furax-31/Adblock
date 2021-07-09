@@ -5,9 +5,9 @@
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-www.skyrock.com###discover_dedikas
+skyrock.com###discover_dedikas
 
-www.twitch.tv##.sc-AxjAm.gLrbxY.consent-banner
+twitch.tv##.sc-AxjAm.gLrbxY.consent-banner
 
 forum.xda-developers.com###sponsor_banner_link > [src*="https://www.xda-developers.com/files/2021/06/hw_prime_2021.jpg"]
 
@@ -29,11 +29,11 @@ youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 youtube-nocookie.com,youtube.com###yt-lang-alert-container
 /annotations_module.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
 
-www.porntrex.com##.index-link-href
+porntrex.com##.index-link-href
 
-www.google.com##.articleHeader__shareLinks
+google.com##.articleHeader__shareLinks
 
-www.jeuxvideo.com##.articleHeader__shareLinks
+jeuxvideo.com##.articleHeader__shareLinks
 
 fr.xhamster.com##.wio-ccams-widget.vertical
 
@@ -41,17 +41,17 @@ fr.xhamster.com##.wio-ccams-widget.underplayer
 
 fr.xhamster.com##.wio-cspb.wio-cspa
 
-www.phonandroid.com##.lazyloaded
+phonandroid.com##.lazyloaded
 
-www.youtube.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
+youtube.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
 
-www.google.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
+google.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
 
 genius.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
 
-www.google.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
+google.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
 
-www.youtube.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
+youtube.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
 
 genius.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
 
@@ -59,14 +59,10 @@ genius.com##.apple_music_player_iframe
 
 dialog.filepicker.io##.apple_music_player_iframe
 
-www.youtube.com##.apple_music_player_iframe
+youtube.com##.apple_music_player_iframe
 
-www.filepicker.io##.apple_music_player_iframe
+filepicker.io##.apple_music_player_iframe
 
 tirexo.ai##+js(aopw, window.open)
 
-fmovies.to##+js(acis, JSON.parse)
-fmovies.to##+js(acis, atob)
-fmovies.to##+js(acis, XMLHttpRequest)
-
-diariodocentrodomundo.com.br,01net.com,gizchina.com,pocketpc.ch##.mrf-adv__wrapper 
+diariodocentrodomundo.com.br,01net.com,gizchina.com,pocketpc.ch##.mrf-adv__wrapper

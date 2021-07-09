@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Title: Adblock Perso
+! Title: Filtres Perso
 ! Version: May 2021
 ! Expires: 7 days
 ! Description:

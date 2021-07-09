@@ -5,64 +5,57 @@
 ! Description:
 ! ————————————————————————————————————————————————————————————————
 
-skyrock.com###discover_dedikas
 
-twitch.tv##.sc-AxjAm.gLrbxY.consent-banner
+##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+
+/annotations_module.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+
+dialog.filepicker.io##.apple_music_player_iframe
+
+diariodocentrodomundo.com.br,01net.com,gizchina.com,pocketpc.ch##.mrf-adv__wrapper
+
+filepicker.io##.apple_music_player_iframe
 
 forum.xda-developers.com###sponsor_banner_link > [src*="https://www.xda-developers.com/files/2021/06/hw_prime_2021.jpg"]
-
 forum.xda-developers.com##.uix_sidebarInner > .uix_sidebar--scroller > div.block:nth-of-type(2) > .block-container > .block-body.block-row
 
-yggtorrent.li##.ad-alert-wrapper
+fr.xhamster.com##.wio-ccams-widget.underplayer
+fr.xhamster.com##.wio-ccams-widget.vertical
+fr.xhamster.com##.wio-cspb.wio-cspa
+
+genius.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
+genius.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
+genius.com##.apple_music_player_iframe
+
+google.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
+google.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
+google.com##.articleHeader__shareLinks
+
+jeuxvideo.com##.articleHeader__shareLinks
+
+phonandroid.com##.lazyloaded
+
+porntrex.com##.index-link-href
+
+skyrock.com###discover_dedikas
 
 teamos-hkrg.com##[src*="https://lookimg.com/images/2021/05/12/PEzc0g.png"]
 
-##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+tirexo.ai##+js(aopw, window.open)
+
+twitch.tv##.sc-AxjAm.gLrbxY.consent-banner
+
+yggtorrent.li##.ad-alert-wrapper
+
+youtube-nocookie.com,youtube.com###yt-lang-alert-container
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
 youtube-nocookie.com,youtube.com##.iv-promo-video
 youtube-nocookie.com,youtube.com##.video-annotations
 youtube-nocookie.com,youtube.com##.ytp-cards-teaser
+youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
+youtube.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
+youtube.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
+youtube.com##.apple_music_player_iframe
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-ce-element
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
-youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
-youtube-nocookie.com,youtube.com###yt-lang-alert-container
-/annotations_module.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
-
-porntrex.com##.index-link-href
-
-google.com##.articleHeader__shareLinks
-
-jeuxvideo.com##.articleHeader__shareLinks
-
-fr.xhamster.com##.wio-ccams-widget.vertical
-
-fr.xhamster.com##.wio-ccams-widget.underplayer
-
-fr.xhamster.com##.wio-cspb.wio-cspa
-
-phonandroid.com##.lazyloaded
-
-youtube.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
-
-google.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
-
-genius.com##.AppleMusicPlayer__Iframe-uavgzr-3.gzVfqj
-
-google.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
-
-youtube.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
-
-genius.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
-
-genius.com##.apple_music_player_iframe
-
-dialog.filepicker.io##.apple_music_player_iframe
-
-youtube.com##.apple_music_player_iframe
-
-filepicker.io##.apple_music_player_iframe
-
-tirexo.ai##+js(aopw, window.open)
-
-diariodocentrodomundo.com.br,01net.com,gizchina.com,pocketpc.ch##.mrf-adv__wrapper

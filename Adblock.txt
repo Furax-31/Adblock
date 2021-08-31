@@ -57,3 +57,6 @@ youtube.com##.InreadAd__Container-sc-1pp8jgt-0.cqynKe
 youtube.com##.apple_music_player_iframe
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-ce-element
 ~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+
+uptostream.com,tirexo.work##+js(acis, window.a)
+@@||tirexo.work^$generichide

@@ -60,3 +60,15 @@ youtube.com##.apple_music_player_iframe
 
 uptostream.com,tirexo.work##+js(acis, window.a)
 @@||tirexo.work^$generichide
+
+@@||clk.rtpdn14.com^
+@@||syndication.optimizesrv.com^
+
+
+www3.yggtorrent.nz##.ad-alert-message-text
+
+www3.yggtorrent.nz###over-18-notification
+
+yggtorrent.nz##.ad-alert-message-text
+
+yggtorrent.nz###over-18-notification
